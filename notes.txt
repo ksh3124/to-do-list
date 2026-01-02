@@ -1,0 +1,12 @@
+to do application
+
+key features:
+1. track progress (completed or not) - similar to microsoft to do.
+2. deletes tasks after one day.
+3. nice gui.
+
+
+steps
+cli
+tkinter
+custom tk
