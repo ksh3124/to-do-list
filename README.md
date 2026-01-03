@@ -13,11 +13,3 @@
 - 🌙 **Modern dark UI** with scrollable list  
 
 ---
-
-## 🚀 Quick Start
-
-1. **Clone the repo:**
-
-   ```bash
-   git clone https://github.com/your-username/to-do-by-ksh.git
-   cd to-do-by-ksh
