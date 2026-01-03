@@ -1,6 +1,8 @@
 import customtkinter as ctk
 import logic
 import store_data
+import os
+
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("dark-blue")
